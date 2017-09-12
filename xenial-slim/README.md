@@ -12,7 +12,7 @@ cd ..
 sudo chown -R $USER. ubuntu-xenial-core-cloudimg-amd64-root.tar.gz
 sudo rm ROOTFS/ -fR
 ```
-
+#### Build
 ```
 docker build -t izone/ubuntu:xenial-slim .
 ```
