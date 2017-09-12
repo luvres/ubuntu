@@ -1,5 +1,5 @@
 ### Ubuntu Slim
-#### Reference: (https://github.com/tianon/docker-brew-ubuntu-core)
+#### Reference: (https://hub.docker.com/_/ubuntu/)
 ```
 mkdir ROOTFS
 mv ubuntu-xenial-core-cloudimg-amd64-root.tar.gz ROOTFS
