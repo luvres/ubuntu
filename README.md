@@ -14,6 +14,6 @@ sudo rm ROOTFS/ -fR
 ```
 #### Build
 ```
-docker build -t izone/ubuntu:xenial-slim .
+docker build -t izone/ubuntu:xenial-slim ./xenial-slim/
 ```
 
